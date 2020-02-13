@@ -1,0 +1,4 @@
+
+tasks:
+  - init: npx serve
+  - openMode: split-left
