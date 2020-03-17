@@ -3,3 +3,5 @@
     - Apresentação de uma árvore fractal;
     - Gerador de labirintos;
     - Visualização do algoritmo Bubble Sort(adicionar outros);
+    - Campo estrelado;
+    - Vector p5;
